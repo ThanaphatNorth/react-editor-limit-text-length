@@ -1,6 +1,9 @@
 # Video Demo
-<img width="1195" alt="Screenshot 2567-09-27 at 16 21 41" src="https://github.com/user-attachments/assets/19f12869-a49c-4004-b3d9-85392e32dec8">
 
+<video width="320" height="240" controls>
+  <source src="./video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
