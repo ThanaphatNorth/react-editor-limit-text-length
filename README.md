@@ -1,9 +1,7 @@
 # Video Demo
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/ThanaphatNorth/react-editor-limit-text-length/blob/325e53fbc9a727f26d8acc4ab25550fd720f4055/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Alt Text](./demo.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
