@@ -6,7 +6,7 @@ const QuillEditor = () => {
   const [value, setValue] = useState("");
   const [textLength, setTextLength] = useState(0);
   const quillRef = useRef(null);
-  const maxLength = 100;
+  const maxLength = 5000;
   // This function is called every time the editor's content changes
   const getPlainText = (editor) => {
     const text = editor.getText();
